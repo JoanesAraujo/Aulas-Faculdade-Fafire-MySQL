@@ -13,8 +13,11 @@ Projeto de banco de dados de Vendas
 Este visa apresentar o ***modelo descritivo***, ***modelo conceitual*** e ***modelo relacional*** de um **banco de dados de vendas**.
 
 <br>
+
 **<u>Modelo Descritivo</u>**
-<br>Este é um banco de dados de uma mercearia. Nesta mercearia são vendidas produtos para clientes. 
+
+<br>
+Este é um banco de dados de uma mercearia. Nesta mercearia são vendidas produtos para clientes. 
 
 Cada venda é feita numa data, tem um código específico e feita para um cliente, por um funcionário, pode ter um ou mais produtos e tem uma forma de pagamento. Para cada forma de pagamento deseja-se armazenar: código e descrição.
 
